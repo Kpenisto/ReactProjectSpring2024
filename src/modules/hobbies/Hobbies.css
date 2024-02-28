@@ -1,0 +1,14 @@
+.blogPost {
+    border-style: dotted;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 600px;
+    padding: 7px;
+}
+
+.blogPostPretty {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 600px;
+    padding: 7px;
+}
